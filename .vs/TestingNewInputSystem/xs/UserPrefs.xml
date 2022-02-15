@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0E346773-8F84-17ED-BA73-133FCB832F7A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Input Systems/PlayerInputActions.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovements.cs" Line="10" Column="21" />
+      <File FileName="Assets/Input Systems/PlayerInputActions.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestingNewInputSystem" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Input Systems" expanded="True">
+                <Node name="PlayerInputActions.cs" selected="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cea9a67a-471c-454d-8c87-7a0ac7bff1cb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
